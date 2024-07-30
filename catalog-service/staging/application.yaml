@@ -1,3 +1,3 @@
 catalog:
   greeting:
-    message: "Staging/config-server hello message"
+    message: "Staging/config-server hello message (*)"
