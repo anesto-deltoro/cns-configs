@@ -1,0 +1,3 @@
+catalog:
+  greeting:
+    message: "Default/config-server hello message"
