@@ -1,0 +1,3 @@
+catalog:
+  greeting:
+    message: "Staging/config-server hello message"
